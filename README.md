@@ -1,4 +1,4 @@
-# engineering-blogs
+# Engineering blogs and cool websites to learn stuff
 A list of good engineering blogs that I find helpful
 
 - [Spotify engineering](https://engineering.atspotify.com)
