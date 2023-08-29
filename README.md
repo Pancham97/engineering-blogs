@@ -14,3 +14,7 @@ A list of good engineering blogs that I find helpful
 
 - [CPU land](https://cpu.land)
 - [EKS Workshop](https://www.eksworkshop.com)
+
+## Random help
+
+- [Send HTML emails](https://publicate.it/blog/how-to-send-html-email)
